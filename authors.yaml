@@ -1,0 +1,11 @@
+- name: "An Ni Xu"
+  mcgill_id: "261053392"
+  email: "an.n.xu@mail.mcgill.ca"
+
+- name: "Jia Song"
+  mcgill_id: "261053371"
+  email: "jiabao.song@mail.mcgill.ca"
+
+  - name: "YiWen Zhang"
+    mcgill_id: "260759128"
+    email: "yiwen.zhang4@mail.mcgill.ca"
